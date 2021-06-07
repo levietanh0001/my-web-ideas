@@ -1,4 +1,5 @@
-1. Project structure
+# notes
+## 1. Project structure
 ```bash
 html
 	head
